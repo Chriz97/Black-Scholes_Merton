@@ -18,9 +18,6 @@ In addition, you need to install the scipy package, which can be installed using
 ## License
 This script is licensed under the MIT License, which means that you can use, copy, and modify the script for any purpose, including commercial use. However, the script comes with no warranty, and the author is not liable for any damages that may arise from using the script.
 
-## Contributing
-If you find any issues with the script or have suggestions for improvements, feel free to open an issue or submit a pull request on Github. Your contributions are welcome and appreciated.
-
 ## Inspiration
 This script was inspired by the Corporate Finance Courses offered at Linköping University. The courses provided a comprehensive introduction to financial instruments and valuation methods, including the Black-Scholes-Merton model. The knowledge gained from these courses inspired me to develop this script as a way to apply the concepts I learned to real-world financial problems. I hope this script can be useful for others who are interested in financial modeling and analysis.
 
